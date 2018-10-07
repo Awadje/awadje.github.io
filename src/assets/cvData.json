@@ -94,7 +94,7 @@
       {
         "name": "Version Control",
         "language": "Git",
-        "skill": 25
+        "skill": 75
       },
       {
         "name": "VuejS",
@@ -132,7 +132,7 @@
         "id": 1,
         "employer": "Accenture",
         "when": "2007 - 2014",
-        "role": "IT Project Management Consultant",
+        "role": "IT PM Consultant",
         "description": ""
       },
       {
