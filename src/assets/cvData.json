@@ -1,0 +1,154 @@
+{
+ "categories": {
+  "general": [
+    {
+    "type": "Birthday",
+    "value": "5th April 1985",
+    "icon": "cake"
+
+    },
+    {
+    "type": "Relationship",
+    "value": "Married",
+    "icon": "people"
+    },
+    {
+    "type": "Nationality",
+    "value": "Dutch",
+    "icon": "filter_drama"
+    },
+    {
+    "type": "Languages",
+    "value": "English, Dutch",
+    "icon": "language"
+    
+  }],
+  "contact": [ 
+      { 
+        "type": "Phone",
+        "value": "+31646017364",
+        "icon": "stay_current_portrait"
+      },
+      {
+        "type": "E-mail",
+        "value": "michaelawad85@gmail.com",
+        "icon": "mail"
+      },
+      {
+        "type": "Skype",
+        "value": "michaelawad85",
+        "icon": "videocam"
+      },
+      {
+        "type": "Home",
+        "value": "Eemnes",
+        "icon": "place"
+      }
+    ],
+  "social": [ 
+      { 
+        "type": "Twitter",
+        "value": "mikeightyfive",
+        "icon": "require('@/assets/twitter.png')",
+        "url": "https://twitter.com/mikeightyfive"
+      },
+      {
+        "type": "Google",
+        "value": "michaelawad85",
+        "icon": "require('@/assets/google.png')"
+      },
+      {
+        "type": "Github",
+        "value": "Awadje, MichaelAwad216 ",
+        "icon": "require('@/assets/github.png')"
+      },
+      {
+        "type": "linkedIn",
+        "value": "michael-awad",
+        "icon": "require('@/assets/linkedin.png')"
+      }
+    ],
+  "education": [ 
+      {
+        "instance": "Hogeschool van Amsterdam",
+        "degree": "Bachelor of ICT",
+        "year": "2007"
+      },
+      {
+        "instance": "Codaisseur",
+        "degree": "Web Development",
+        "year": "2017"
+      }
+    ],
+    "skills": [ 
+      {
+        "name": "Project Management",
+        "language": "PRINCE2, Agile, SCRUM, P3O",
+        "skill": 90
+      },
+      {
+        "name": "CI",
+        "language": "Jenkins",
+        "skill": 25
+      },
+      {
+        "name": "Version Control",
+        "language": "Git",
+        "skill": 25
+      },
+      {
+        "name": "VuejS",
+        "language": "JavaSript",
+        "skill": 75
+      },
+      {
+        "name": "NodejS",
+        "language": "JavaSript",
+        "skill": 50
+      },
+      {
+        "name": "ReactJS",
+        "language": "JavaSript",
+        "skill": 25
+      },
+      {
+        "name": "Ruby on Rails",
+        "language": "Ruby",
+        "skill": 25
+      },
+      {
+        "name": "HTML 5",
+        "language": "html",
+        "skill": 80
+      },
+      {
+        "name": "CSS",
+        "language": "css",
+        "skill": 50
+      }
+  ],
+  "experience": [ 
+      { 
+        "id": 1,
+        "employer": "Accenture",
+        "when": "2007 - 2014",
+        "role": "IT Project Management Consultant",
+        "description": ""
+      },
+      {
+        "id": 2,
+        "employer": "Intermedius",
+        "when": "2014 - 2017",
+        "role": "IT PPM Consultant",
+        "description": ""
+      },
+      {
+        "id": 3,
+        "employer": "216",
+        "when": "2017 - now",
+        "role": "Fullstack Developer",
+        "description": ""
+      }
+    ]
+ }
+}
