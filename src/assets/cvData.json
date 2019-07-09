@@ -145,8 +145,15 @@
       {
         "id": 3,
         "employer": "216",
-        "when": "2017 - now",
+        "when": "2017 - 2018",
         "role": "Fullstack Developer",
+        "description": ""
+      },
+      {
+        "id": 4,
+        "employer": "VodafoneZiggo",
+        "when": "2018 - now",
+        "role": "Front End Developer",
         "description": ""
       }
     ]
