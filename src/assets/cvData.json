@@ -26,7 +26,7 @@
   "contact": [ 
       { 
         "type": "Phone",
-        "value": "+31646017364",
+        "value": "Ask me",
         "icon": "stay_current_portrait"
       },
       {
@@ -94,12 +94,12 @@
       {
         "name": "Version Control",
         "language": "Git",
-        "skill": 25
+        "skill": 75
       },
       {
         "name": "VuejS",
         "language": "JavaSript",
-        "skill": 75
+        "skill": 80
       },
       {
         "name": "NodejS",
@@ -132,7 +132,7 @@
         "id": 1,
         "employer": "Accenture",
         "when": "2007 - 2014",
-        "role": "IT Project Management Consultant",
+        "role": "IT PM Consultant",
         "description": ""
       },
       {
